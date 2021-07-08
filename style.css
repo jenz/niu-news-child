@@ -1,0 +1,23 @@
+/*
+ Theme Name:   Gridbox Child (NIU Blogs)
+ Theme URI:    https://www.niutoday.info/
+ Description:  Gridbox Child Theme
+ Author:       Jennifer Zelazny/SDAC Inc
+ Author URI:   https://sandboxdev.com
+ Template:     gridbox
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  gridbox-child-niu-blogs
+*/
+
+
+nav#main-navigation ul.main-navigation-menu li a {font-size:1.1em !important;}
+
+a.more-link {background:#c8102e;}
+
+#footer-text.site-info {text-align:center !important;margin:0 auto;float:none;}
+
+
+.widget_recent_entries ul {list-style-position: outside;margin-left:25px;}
